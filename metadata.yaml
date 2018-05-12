@@ -1,0 +1,33 @@
+_repo: The-Christmas-Kalends-of-ProvenceAnd-Some-Other-Proven-al-Festivals_19587
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 19587-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Janvier, Thomas A. (Thomas Allibone)
+    alias: Janvier, Thomas Allibone
+    birthdate: 1849
+    deathdate: 1913
+    gutenberg_agent_id: '3196'
+    url: http://www.gutenberg.org/2009/agents/3196
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Allibone_Janvier
+description: ''
+gutenberg_bookshelf: Christmas
+gutenberg_issued: '2006-10-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19587'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GT'
+- !lcsh 'Christmas -- France -- Provence'
+- !lcsh 'Festivals -- France -- Provence'
+- !lcsh 'Provence (France) -- Social life and customs'
+title: 'The Christmas Kalends of Provence
+
+  And Some Other Provençal Festivals'
+url: http://www.gutenberg.org/ebooks/19587
